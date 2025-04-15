@@ -14,4 +14,11 @@ public class AppConfig {
 		return new Common();
 	}
 
+	//
+	//This is comment
+
+
+	public void abc(){
+		System.out.println("abc");
+	}
 }
